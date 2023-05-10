@@ -1,0 +1,3 @@
+loadsim : loadsimulator.cpp
+	@echo Making executable...
+	g++ loadsimulator.cpp -o loadsim
